@@ -1,0 +1,13 @@
+
+GET http://localhost:3001/api/blogposts/
+
+###
+POST http://localhost:3001/api/blogposts/
+content-type: application/json
+
+{
+    "title": "love what you do and you will never work a day in your life",
+    "author": "Cody Torno",
+    "url": "https://www.codytorno.com/",
+    "likes": 10
+}
