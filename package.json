@@ -1,0 +1,19 @@
+{
+  "name": "bloglist_server",
+  "version": "1.0.0",
+  "description": "blog list server side application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codytorno/bloglist_server.git"
+  },
+  "author": "cody torno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codytorno/bloglist_server/issues"
+  },
+  "homepage": "https://github.com/codytorno/bloglist_server#readme"
+}
